@@ -4,7 +4,6 @@ class Quote
   def initialize(file)
     @quotes = Array.new
     filename = file.to_s+"quotes"
-    puts filename
     text=File.open(filename, :encoding => "UTF-8").each(sep="\r") do |quote|
       @quotes << quote
     end
