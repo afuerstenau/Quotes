@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>ruby /Users/afuerstenau/Dropbox/Quotes/Quotes.rb /Users/afuerstenau/Dropbox/Quotes/</string>
+					<string>ruby /Users/afuerstenau/ownCloud/Kollege/Quotes/Quotes.rb /Users/afuerstenau/ownCloud/Kollege/Quotes/</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -174,7 +174,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>529.000000:433.000000</string>
+				<string>529.000000:253.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/German.lproj/main.nib</string>
 			</dict>
@@ -409,7 +409,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>529.000000:787.000000</string>
+				<string>529.000000:607.000000</string>
 				<key>nibPath</key>
 				<string>/Applications/Growl.app/Contents/Library/Automator/Show Growl Notification.action/Contents/Resources/main.nib</string>
 			</dict>
@@ -419,19 +419,19 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>8FFD2693-0AC9-4F70-A6FA-EFD736684F4E</key>
-		<dict>
-			<key>from</key>
-			<string>F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F - F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F</string>
-			<key>to</key>
-			<string>F71412B7-E1E3-48A4-8B59-6F79C6E6320F - F71412B7-E1E3-48A4-8B59-6F79C6E6320F</string>
-		</dict>
-		<key>D3B17A00-3994-47B4-ACAB-633CF5349494</key>
+		<key>21E94519-A5F7-4F41-AA02-F986CBEF03B7</key>
 		<dict>
 			<key>from</key>
 			<string>9F68D335-2D6A-44AF-9775-9B8592ACDBA1 - 9F68D335-2D6A-44AF-9775-9B8592ACDBA1</string>
 			<key>to</key>
 			<string>F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F - F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F</string>
+		</dict>
+		<key>FAE730C9-9F62-425B-A44C-BCE4AF5E397A</key>
+		<dict>
+			<key>from</key>
+			<string>F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F - F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F</string>
+			<key>to</key>
+			<string>F71412B7-E1E3-48A4-8B59-6F79C6E6320F - F71412B7-E1E3-48A4-8B59-6F79C6E6320F</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
