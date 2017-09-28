@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>409.2</string>
+	<string>428</string>
 	<key>AMApplicationVersion</key>
-	<string>2.5</string>
+	<string>2.7</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>ruby /Users/afuerstenau/ownCloud/Kollege/Quotes/Quotes.rb /Users/afuerstenau/ownCloud/Kollege/Quotes/</string>
+					<string>ruby /Users/afuerstenau/Projects/Quotes/Quotes.rb /Users/afuerstenau/Projects/Quotes/</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -174,7 +174,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>529.000000:185.000000</string>
+				<string>529.000000:253.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/German.lproj/main.nib</string>
 			</dict>
@@ -409,7 +409,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>529.000000:539.000000</string>
+				<string>529.000000:607.000000</string>
 				<key>nibPath</key>
 				<string>/Applications/Growl.app/Contents/Library/Automator/Show Growl Notification.action/Contents/Resources/main.nib</string>
 			</dict>
@@ -419,19 +419,19 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>CF93D7EE-DDF1-4511-B6CE-816A6467AC51</key>
-		<dict>
-			<key>from</key>
-			<string>9F68D335-2D6A-44AF-9775-9B8592ACDBA1 - 9F68D335-2D6A-44AF-9775-9B8592ACDBA1</string>
-			<key>to</key>
-			<string>F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F - F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F</string>
-		</dict>
-		<key>FC15D9BE-0AD0-4AF1-A282-C7FD3A707B2E</key>
+		<key>5A012A99-FBD5-4B53-821F-F43E0E376EA2</key>
 		<dict>
 			<key>from</key>
 			<string>F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F - F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F</string>
 			<key>to</key>
 			<string>F71412B7-E1E3-48A4-8B59-6F79C6E6320F - F71412B7-E1E3-48A4-8B59-6F79C6E6320F</string>
+		</dict>
+		<key>75A36D75-4579-42D4-9BE9-7909639673C7</key>
+		<dict>
+			<key>from</key>
+			<string>9F68D335-2D6A-44AF-9775-9B8592ACDBA1 - 9F68D335-2D6A-44AF-9775-9B8592ACDBA1</string>
+			<key>to</key>
+			<string>F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F - F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
