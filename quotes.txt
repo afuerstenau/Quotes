@@ -88,7 +88,7 @@
 "Re-bugging: The act of re-breaking software after a fix because important clients depended on the brokenness." -@zspencer
 "Technical Debt is NOT the result of poor programming – it is the cost of not refactoring as you learn more about a solution." -@joshuajames
 "The first step to solving any hard problem is making sure you actually need to solve it." -@benrady
-"Quote of the day: "You always start where you are, because you can't start anywhere else." – @OlafLewitz
+"You always start where you are, because you can't start anywhere else." – @OlafLewitz
 "Everything will be okay in the end. If it's not okay then it's not the end." –Unknown
 "Don't comment by default. Make code clean by default. Comment only when you fail to make it clean enough." –via Twitter
 "It’s our thinking, not other people’s behaviour, that makes us angry." - Marshall Rosenberg
@@ -114,7 +114,7 @@
 "Devs who are too posh to work with maintenance are rarely posh enough to create software that is actually maintainable." - @cykelkatalogen
 "In knowledge work leaders emerge and disappear on demand depending on context. It's a dance, not a formation." -@SamiHonkonen
 "Make It Work, Make It Right, Make It Fast!" –@KentBeck
-"Die Menschen sind nicht faul. Sie haben bloß keine Ziele, die es sich zu verfolgen lohnt." -Tony Robbins
+"People are not lazy, they simply have impotent goals. That is goals that do not inspire them." -Tony Robbins
 "For every complex problem there is an answer that is clear, simple, and wrong." -H. L. Mencken
 "There are two ways of constructing a software design.  One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies." - C.A.R. Hoare
 "A healthy culture can help to fix broken processes!" -@henrikkniberg
@@ -240,3 +240,10 @@
 "Striving for excellence motivates you; striving for perfection is demoralizing." - Harriet Braiker
 "90% of the bugs I produced were for one of the two reasons: 1. Doing multiple things at one place 2. Doing one thing at multiple places" - @pseudo_coder
 “When you’re working in somebody else’s module, though, you’d better use his or her conventions. It’s part of learning to work with others.” - Ray Ozzie
+“If you like doing something, do it regularly; if you don’t like doing something, make a habit of doing something different.” - Epictetus
+"Vision without action is a daydream. Action without vision is a nightmare." - Japanese Proverb
+"Patience: procastinate till the last responsible moment." - @YvesHanoulle
+"It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading." - Douglas Crockford
+"Never organize what you can discard." -@joshua_becker
+“It is easier to act yourself into a new way of thinking, than it is to think yourself into a new way of acting.” — Millard Fuller
+"First, solve the problem. Then, write the code." - John Johnson
