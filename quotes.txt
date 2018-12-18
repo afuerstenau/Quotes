@@ -247,3 +247,4 @@
 "Never organize what you can discard." -@joshua_becker
 “It is easier to act yourself into a new way of thinking, than it is to think yourself into a new way of acting.” — Millard Fuller
 "First, solve the problem. Then, write the code." - John Johnson
+"The range of what we think and do is limited by what we fail to notice. And because we fail to notice there is little we can do to change until we notice how failing to notice shapes our thoughts and deeds." ~ R. D. Laing

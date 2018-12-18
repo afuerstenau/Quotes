@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>428</string>
+	<string>444.38</string>
 	<key>AMApplicationVersion</key>
-	<string>2.7</string>
+	<string>2.9</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -174,9 +174,9 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>529.000000:253.000000</string>
+				<string>390.500000:252.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/German.lproj/main.nib</string>
+				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<true/>
@@ -267,20 +267,14 @@
 					</array>
 				</dict>
 				<key>AMActionVersion</key>
-				<string>2.1.3</string>
+				<string>1.0.2</string>
 				<key>AMApplication</key>
 				<array>
-					<string>Unbekannt</string>
+					<string>Automator</string>
 				</array>
 				<key>AMParameterProperties</key>
 				<dict>
-					<key>notificationDescription</key>
-					<dict/>
-					<key>notificationTitle</key>
-					<dict/>
-					<key>priority</key>
-					<dict/>
-					<key>sticky</key>
+					<key>source</key>
 					<dict/>
 				</dict>
 				<key>AMProvides</key>
@@ -292,126 +286,72 @@
 						<string>com.apple.applescript.object</string>
 					</array>
 				</dict>
-				<key>AMRequiredResources</key>
-				<array>
-					<dict>
-						<key>Display Name</key>
-						<string></string>
-						<key>Resource</key>
-						<string>com.Growl.GrowlHelperApp</string>
-						<key>Type</key>
-						<string>application</string>
-						<key>Version</key>
-						<string>1.1</string>
-					</dict>
-				</array>
 				<key>ActionBundlePath</key>
-				<string>/Applications/Growl.app/Contents/Library/Automator/Show Growl Notification.action</string>
+				<string>/System/Library/Automator/Run AppleScript.action</string>
 				<key>ActionName</key>
-				<string>Benachrichtigung mit Growl anzeigen</string>
+				<string>AppleScript ausführen</string>
 				<key>ActionParameters</key>
 				<dict>
-					<key>notificationDescription</key>
-					<string></string>
-					<key>notificationTitle</key>
-					<string>Quote ausgeben</string>
-					<key>priority</key>
-					<integer>0</integer>
-					<key>sticky</key>
-					<true/>
+					<key>source</key>
+					<string>on run {input, parameters}		display notification input with title "Quote of the day"		return inputend run</string>
 				</dict>
 				<key>BundleIdentifier</key>
-				<string>com.growl.GrowlAction</string>
+				<string>com.apple.Automator.RunScript</string>
 				<key>CFBundleVersion</key>
-				<string>2.1.3</string>
+				<string>1.0.2</string>
 				<key>CanShowSelectedItemsWhenRun</key>
 				<false/>
 				<key>CanShowWhenRun</key>
 				<true/>
 				<key>Category</key>
 				<array>
-					<string>Werkzeug</string>
+					<string>AMCategoryUtilities</string>
 				</array>
 				<key>Class Name</key>
-				<string>AMAppleScriptAction</string>
+				<string>RunScriptAction</string>
 				<key>InputUUID</key>
-				<string>A78A7534-6278-4B42-9281-E91764A7BCE1</string>
+				<string>90D940B9-016D-4209-8A5B-91898ADD09F9</string>
 				<key>Keywords</key>
 				<array>
-					<string>Growl</string>
-					<string>Notification</string>
+					<string>Ausführen</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>95895F59-67D4-45CD-A1D0-31CCC9B45734</string>
-				<key>ShowWhenRun</key>
-				<false/>
+				<string>9C1AE0A7-C1A7-488F-9170-B30163C19A31</string>
 				<key>UUID</key>
-				<string>F71412B7-E1E3-48A4-8B59-6F79C6E6320F</string>
+				<string>564F461D-AC8C-4DD4-AE9E-E8BDAA3B9B41</string>
 				<key>UnlocalizedApplications</key>
 				<array>
-					<string>GrowlHelperApp</string>
+					<string>Automator</string>
 				</array>
 				<key>arguments</key>
 				<dict>
 					<key>0</key>
 					<dict>
 						<key>default value</key>
-						<string></string>
+						<string>on run {input, parameters}
+	
+	(* Your script goes here *)
+	
+	return input
+end run</string>
 						<key>name</key>
-						<string>notificationTitle</string>
+						<string>source</string>
 						<key>required</key>
 						<string>0</string>
 						<key>type</key>
 						<string>0</string>
 						<key>uuid</key>
 						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<integer>0</integer>
-						<key>name</key>
-						<string>priority</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-					<key>2</key>
-					<dict>
-						<key>default value</key>
-						<false/>
-						<key>name</key>
-						<string>sticky</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>2</string>
-					</dict>
-					<key>3</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>notificationDescription</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>3</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>529.000000:607.000000</string>
+				<string>390.500000:562.000000</string>
 				<key>nibPath</key>
-				<string>/Applications/Growl.app/Contents/Library/Automator/Show Growl Notification.action/Contents/Resources/main.nib</string>
+				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<true/>
@@ -419,14 +359,14 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>5A012A99-FBD5-4B53-821F-F43E0E376EA2</key>
+		<key>096A4CED-3068-49DB-A42A-494BA9A77D77</key>
 		<dict>
 			<key>from</key>
 			<string>F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F - F8B2DDA4-0E32-47F8-88FB-ED8300FCEA8F</string>
 			<key>to</key>
-			<string>F71412B7-E1E3-48A4-8B59-6F79C6E6320F - F71412B7-E1E3-48A4-8B59-6F79C6E6320F</string>
+			<string>564F461D-AC8C-4DD4-AE9E-E8BDAA3B9B41 - 564F461D-AC8C-4DD4-AE9E-E8BDAA3B9B41</string>
 		</dict>
-		<key>75A36D75-4579-42D4-9BE9-7909639673C7</key>
+		<key>25A03824-BAC1-413B-AF5C-A87A805AA72D</key>
 		<dict>
 			<key>from</key>
 			<string>9F68D335-2D6A-44AF-9775-9B8592ACDBA1 - 9F68D335-2D6A-44AF-9775-9B8592ACDBA1</string>
