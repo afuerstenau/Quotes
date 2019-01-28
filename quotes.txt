@@ -249,3 +249,4 @@
 "First, solve the problem. Then, write the code." - John Johnson
 "The range of what we think and do is limited by what we fail to notice. And because we fail to notice there is little we can do to change until we notice how failing to notice shapes our thoughts and deeds." ~ R. D. Laing
 "Man widerspricht oft einer Meinung, während uns eigentlich nur der Ton, in dem sie vorgetragen wurde, unsympathisch ist." -Friedrich Nietzsche
+"When debugging, novices insert corrective code; experts remove defective code." - Richard Pattis
