@@ -3,13 +3,13 @@ class Quote
     @quotes = []
     filename = file.to_s + 'quotes.txt'
     File.open(filename, encoding: 'UTF-8').each("\r") do |quote|
-      quote=quote.delete("\n")
+      quote = quote.delete("\n")
       @quotes << quote
     end
   end
 
   def next_quote
-    'Quote of the day: ' + @quotes[Random.new.rand(0..@quotes.length - 1)]
+    'Quote of the week: ' + @quotes[Random.new.rand(0..@quotes.length - 1)]
   end
 end
 

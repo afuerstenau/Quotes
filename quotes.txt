@@ -4,11 +4,8 @@
 "I spent a decade learning to make things better. Next, I’m going to try to learn to make better things." - @paulklipp
 "Your head is for having ideas not holding them!" – @gtdguy
 "Resolution: This year I will focus more on making my code easier for others to read as opposed to easier for me to write." -@unclebobmartin
-"… plans are useless, but planning is indispensable." -Dwight D. Eisenhower
-"If you pay peanuts, you get monkeys." -James Goldsmith
 "Much of the stress that people feel doesn't come from having too much to do. It comes from not finishing what they've started." - @gtdguy
 "Experience is what you get when you don't get what you want." -Randy Pausch
-"The best way to get a project done faster is to start sooner." - Jim Highsmith
 "What's worse than failure? Succeeding at what doesn't matter." -@Leadershipfreak
 "Things  to brighten my work day: 1) Something learned2) Something done3) Someone helped" -@tottinge
 "It is never the size of your problem that is the problem. It’s a lack of momentum." - John Maxwell
@@ -16,7 +13,6 @@
 "The primary skill of senior engineers is to train junior engineers. If you're senior with no junior around, you're not senior." -@alrs
 "I may not have gone where I intended to go, but I think I have ended up where I needed to be." -Douglas Adams
 "If you get too focussed on the number of Story Points you might just miss the Point of the Story" -@cgosimon
-"Of caus I don’t look busy. I did it right the first time." –Unknown
 "Never dismiss a good idea because of poor execution" –Jason Fried
 "If you want people motivated to do a good job, give them a good job to do."  -Frederick Herzberg
 "The difference between a boss and a leader: A boss says, 'Go!', a leader says, 'Let's go!'" -E. M. Kelly
@@ -31,7 +27,6 @@
 "If you don't have time to do it right, do you have time to do it over?"- John Wooden
 "Knowing is not enough, you must apply; willing is not enough, you must do." -Bruce Lee
 "People who say it cannot be done should not interrupt those who are doing it." - George Bernard Shaw
-"Don't feel bad if you’re unhappy with the status quo; feel motivated to change it." -@Leadershipfreak
 "Change will not come if we wait for some other person or some other time." - @BarackObama
 "A group of people is not a team and a group of projects is not a portfolio." - @mattbarcomb
 "The time is always right to do what is right." -Martin Luther King, Jr
@@ -43,7 +38,6 @@
 "Without great people, even great ideas are useless." -@simonsinek
 "Believe you can and you're halfway there." – Theodore Roosevelt
 "Wer als Entwickler Kontrolle über innere Qualität abgibt (z.B. an Chef oder Kunde), behält trotzdem die Verantwortung!" - Jens Geyer
-"Be nice to nerds. Chances are you'll end up working for one." - Bill Gates
 "FOOLS confuse motion with progress. A rocking chair is moving but it ain't going anywhere! – Mr. T
 "Eine umgesetzte 80% Lösung ist besser als eine nicht-umgesetzte 100% Lösung" –Unbekannt
 "Always delete the stuff you don't need anymore! - Karsten Bruckmann
@@ -53,7 +47,6 @@
 "It's better to be predictable than precise." -@PaulKGoddard
 "The hardest single part of building a software system is deciding precisely what to build." - Frederick P. Brooks
 "Expensive is when perceived value is too low relative to cost. Be brave focus on increasing value instead of defaulting to reducing cost." - Torbjörn Gyllebring
-"Changing the organisation is risky, not changing the organisation can be fatal." - @LeanVoices
 "If debugging is the process of removing bugs. Then programming must be the process of putting them in." - Edsger Dijkstra
 "When the best leader's work is done the people say, 'We did it ourselves." - Lao Tzu
 "I'm pretty sure agile is just a term for ‚trust your employees’" -@StuartKentNZ
@@ -92,7 +85,6 @@
 "Everything will be okay in the end. If it's not okay then it's not the end." –Unknown
 "Don't comment by default. Make code clean by default. Comment only when you fail to make it clean enough." –via Twitter
 "It’s our thinking, not other people’s behaviour, that makes us angry." - Marshall Rosenberg
-"Project Management is dead." – Niels Pflaeging
 "The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand." - D. Jones
 "Pay no attention to those who talk behind your back - it simply means you're 2 steps ahead." -@MsShaunRobinson
 "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." -Bill Gates
@@ -108,7 +100,6 @@
 "Agile process in the absence of agility is like wings on a penguin, you can flap but not fly." -Venkat Subramaniam via Twitter
 "Wenn Du Großes erreichen willst dann musst du aufhören um Erlaubnis zu fragen!" -Thomas Mangold
 "Oft sagt ein Feedback mehr über den, der es gibt, als über den, der es bekommt." -Peter Becker
-"Planning is priceless but plans are useless" --Dwight D. Eisenhower
 "Perfektion ist nicht dann erreicht, wenn es nichts mehr hinzu zu fügen gibt, sondern wenn man nichts mehr weglassen kann." - Antoine de Saint-Exupéry
 "The people to fear are not those who disagree with you, but those who disagree with you and are too cowardly to let you know" – Napoleon via Twitter
 "Devs who are too posh to work with maintenance are rarely posh enough to create software that is actually maintainable." - @cykelkatalogen
@@ -250,3 +241,7 @@
 "The range of what we think and do is limited by what we fail to notice. And because we fail to notice there is little we can do to change until we notice how failing to notice shapes our thoughts and deeds." ~ R. D. Laing
 "Man widerspricht oft einer Meinung, während uns eigentlich nur der Ton, in dem sie vorgetragen wurde, unsympathisch ist." -Friedrich Nietzsche
 "When debugging, novices insert corrective code; experts remove defective code." - Richard Pattis
+"An evolving system increases its complexity unless work is done to reduce it." - Meir Lehman
+"You cannot change the people around you but you change the people around you" - @jfm
+“A program is never less than 90% complete, and never more than 95% complete.”– Terry Baker
+"We know the past but cannot control it. We control the future but cannot know it." —Claude Shannon
