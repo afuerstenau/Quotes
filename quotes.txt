@@ -3,7 +3,6 @@
 "People won’t tell you what they think until they believe you care about what they think." -@Leadershipfreak
 "I spent a decade learning to make things better. Next, I’m going to try to learn to make better things." - @paulklipp
 "Your head is for having ideas not holding them!" – @gtdguy
-"Resolution: This year I will focus more on making my code easier for others to read as opposed to easier for me to write." -@unclebobmartin
 "Much of the stress that people feel doesn't come from having too much to do. It comes from not finishing what they've started." - @gtdguy
 "Experience is what you get when you don't get what you want." -Randy Pausch
 "What's worse than failure? Succeeding at what doesn't matter." -@Leadershipfreak
@@ -133,7 +132,6 @@
 "Walking on water and developing software from a specification are easy if both are frozen." - Edward V. Berard
 "Agile software development works best when you have two story sizes. Small and too large." -@chzy
 "There is little point in paying attention to prioritization when there is no predictability in delivery" -@djaa_dja
-"Cleaning code does NOT take time.  NOT cleaning code does take time." –@unclebobmartin
 " If Us and Them meet and collaborate every day, Us and Them gradually turns into just Us." – Henrik Kniberg
 "There are two things people are sure to hate; Change, and the way things are." - @billwil
 "Programming is the art of knowing when to use google, when to ask for help, and when to go for a walk around the block." -dennis collective (@dnscollective)
@@ -167,30 +165,6 @@
 "Incentives ensure that people stop doing things just for the joy of the work." -@jurgenappelo
 "You won't have a first mover advantage for long if somebody else has the fast learner advantage." -@jurgenappelo
 "Stories aren't a way to describe better requirements, but a way to organize and have better conversations." -@jeffpatton
-"A good ScrumMaster grasps the responsibilities of the role. A great ScrumMaster grasps the skills and mindset of the role." -@geoffcwatts
-"A good ScrumMaster will be indispensable to a team. A great ScrumMaster will become both dispensable and wanted." -@geoffcwatts
-"A good ScrumMaster helps a Scrum team survive in an organisation's culture. A great ScrumMaster helps change the culture so Scrum teams can thrive." -@geoffcwatts
-"A good ScrumMaster will hold team members to account if needed. A great ScrumMaster will hold the team to account for not holding their teammates to account." -@geoffcwatts
-"A good ScrumMaster is wary of influencing the team. A great ScrumMaster can act normally and know the team will still make their own decisions." -@geoffcwatts
-"A good ScrumMaster will ensure the team have access to a product owner. A great ScrumMaster will ensure the team have access to the product owner." -@geoffcwatts
-"A good ScrumMaster helps the team develop and grow. A great ScrumMaster helps the team develop their own growth pathway." -@geoffcwatts
-"A good ScrumMaster removes disruptive influences from the daily scrum so it is used for the team's benefit. A great ScrumMaster will create an environment where others can attend and not affect the behaviour of the team." -@geoffcwatts
-"A good ScrumMaster will help a team change their sprint length to find their optimum. A great ScrumMaster hs faith in self-organisation and knows the value of rythm." -@geoffcwatts
-"A good ScrumMaster will say what needs to be said. A great ScrumMaster knows the power of silence." -@geoffcwatts
-"A good ScrumMaster helps the team identify improvements. A great ScrumMaster inspires the team to be adaptive." -@geoffcwatts
-"A good ScrumMaster holds a balanced retrospective. A great ScrumMaster holds a focussed retrospective." -@geoffcwatts
-"A good ScrumMaster encourages teams to share skills. A great ScrumMaster encourages teams to share responsibilities." -@geoffcwatts
-"A good ScrumMaster helps a team meet their definition of done at the end of the sprint. A great ScrumMaster helps a team extend their definition of done." -@geoffcwatts
-"A good ScrumMaster facilitates the sprint review to look back and review the product built in the previous sprint. A great ScrumMaster facilitates the sprint review to look forward and shape the product in future sprints." -@geoffcwatts
-"A good ScrumMaster notices areas for improvement in the team. A great ScrumMaster recognises and highlights stenghts for the team to build on." -@geoffcwatts
-"A good ScrumMaster facilitates cooperation between people. A great ScrumMaster facilitates collaboration." -@geoffcwatts
-"A good ScrumMaster helps teams use "yes, but" effectively. A great ScrumMaster helps teams find more space for "yes, and." -@geoffcwatts
-"A good ScrumMaster will push for permission to remove impediments to team productivity. A great ScrumMaster will be prepared to ask for forgiveness." -@geoffcwatts
-"A good ScrumMaster protects the team from distractions. A great ScrumMaster finds the root cause of those distractions and eliminates them." -@geoffcwatts
-"A good ScrumMaster will help maintain team harmony. A great ScrumMaster will guide a team through disharmony to reach a new level of teamwork." -@geoffcwatts
-"A good ScrumMaster will use Scrum to help bring out the best in everyone. A great ScrumMaster will use Scrum to create a "new best" for everyone." -@geoffcwatts
-"A good ScrumMaster asks to understand. A great ScrumMaster asks so the team can understand." -@geoffcwatts
-"A good ScrumMaster will listen carefully to what is said. A great ScrumMaster will also listen carefully to what is not said." -@geoffcwatts
 "Remember: at the end of the day, your job isn't to get the requirements right - your job is to change the world." -@jeffpatton
 "Stories get their names from how they should be used, not what should be written." -@jeffpatton
 "Example is not the main thing in influencing others, it is the only thing." -Albert Schweitzer
@@ -248,3 +222,14 @@
 "Wir sollten uns mit großen Problemen beschäftigen, solange sie noch klein sind." - Jadwiga Rutkowska
 "We judge ourselves by our intentions; we judge others by the effects of their actions on us." - Jack Himmelstein
 "The bad news is time flies. The good news is you are the pilot" - Unknown
+"Wer sich nicht bewegt, spürt seine Fesseln nicht." - Rosa Luxemburg
+"The trick is to fix the problem you have, rather than the problem you want." - Bram Cohen
+"When we are no longer able to change a situation, we are challenged to change ourselves." - Viktor Frankl
+"If you want to know your past, look into your present conditions. If you want to know your future, look into your present actions." - Chinese Proverb
+"The weak can never forgive. Forgiveness is the attribute of the strong." - Mahatma Gandhi
+"Wir werden nicht durch Wahrheiten regiert sondern durch Mehrheiten." -Norbert Röttgen Podcast Lage der Nation
+„Wer glücklich ist, fühlt – wer unglücklich ist, denkt.“ - Joachim Fernau
+„Das Problem sind nicht die neuen Ideen. Das Problem ist, wie wir uns von den alten Ideen lösen können. John Maynard Keynes
+Utopia taucht am Horizont auf. Ich gehe zwei Schritte darauf zu, und es entfernt sich zwei Schritte. Ich gehe weitere zehn Schritte darauf zu, und der Horizont zieht sich zehn Schritte zurück. So weit ich auch gehe, ich werde ihn nie erreichen. Welchen Sinn hat dann die Utopie?
+Ganz einfach: dafür zu sorgen, dass wir weitergehen. - Eduardo Galeano
+"Giving up doesn't always mean your weak; sometimes it means you're strong enough to let go." - Unknown
