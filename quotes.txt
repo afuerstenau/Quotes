@@ -1,25 +1,23 @@
 "The need for uniformity is a sign of insecurity on the part of management." – Tom deMarco
 "If you can avoid to write the code, nobody will ever have to change it." - Alex Fürstenau
-"People won’t tell you what they think until they believe you care about what they think." -@Leadershipfreak
+"People won’t tell you what they think until they believe you care about what they think." - Leadershipfreak
 "I spent a decade learning to make things better. Next, I’m going to try to learn to make better things." - @paulklipp
-"Your head is for having ideas not holding them!" – @gtdguy
-"Much of the stress that people feel doesn't come from having too much to do. It comes from not finishing what they've started." - @gtdguy
+"Your head is for having ideas not holding them!" – David Allen
+"Much of the stress that people feel doesn't come from having too much to do. It comes from not finishing what they've started." - David Allen
 "Experience is what you get when you don't get what you want." -Randy Pausch
 "What's worse than failure? Succeeding at what doesn't matter." -@Leadershipfreak
 "Things  to brighten my work day: 1) Something learned2) Something done3) Someone helped" -@tottinge
 "It is never the size of your problem that is the problem. It’s a lack of momentum." - John Maxwell
 "Too many people are trying to find the right person instead of being the right person." - @ILLUMlNATI
-"The primary skill of senior engineers is to train junior engineers. If you're senior with no junior around, you're not senior." -@alrs
 "I may not have gone where I intended to go, but I think I have ended up where I needed to be." -Douglas Adams
 "If you get too focussed on the number of Story Points you might just miss the Point of the Story" -@cgosimon
-"Never dismiss a good idea because of poor execution" –Jason Fried
 "If you want people motivated to do a good job, give them a good job to do."  -Frederick Herzberg
 "The difference between a boss and a leader: A boss says, 'Go!', a leader says, 'Let's go!'" -E. M. Kelly
 "Any fool can criticize, condemn and complain and most fools do." - Benjamin Franklin
 "I have learned that my total organismic sensing of a situation is more trustworthy than my intellect." -Carl Rogers
 "Jackson's Rules of Optimization: Rule 1. Don't do it. Rule 2 (for experts only). Don't do it yet - that is, not until you have a perfectly clear and unoptimized solution. " - Michael A. Jackson
 "Ultimately, you must forget about technique. The further you progress, the fewer teachings there are. The Great Path is really NO PATH." –Ue
-"It's a choice whether you use your skills to make complicated logic work or to make complicated logic simple" – @KentBeck
+"It's a choice whether you use your skills to make complicated logic work or to make complicated logic simple" – Kent Beck
 "The value of documentation decreases exponentially with size." -@smalltalk80
 "An Agile process in the absence of agility is like wings on a penguin, you can flap but not fly." -Venkat Subramaniam
 "When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflouus." - Martin Fowler
@@ -82,6 +80,7 @@
 "The first step to solving any hard problem is making sure you actually need to solve it." -@benrady
 "You always start where you are, because you can't start anywhere else." – @OlafLewitz
 "Everything will be okay in the end. If it's not okay then it's not the end." –Unknown
+"Am Ende wird alles gut und wenn es noch nicht gut ist dann ist es noch nicht das Ende" - Oscar Wilde
 "Don't comment by default. Make code clean by default. Comment only when you fail to make it clean enough." –via Twitter
 "It’s our thinking, not other people’s behaviour, that makes us angry." - Marshall Rosenberg
 "The fastest algorithm can frequently be replaced by one that is almost as fast and much easier to understand." - D. Jones
@@ -95,7 +94,6 @@
 "You can’t fix Management 1.0 problems by using Management 1.0 behaviour." -Unknown
 "People tend to overestimate driving forces in the short-term and underestimate their long-term impacts." -M. O'Hara-Deveraux
 "Some people are trying to control the waves instead of learning how to surf." –Alex Fürstenau
-"You don't need to convince the customer (or your manager) that code quality is important.  You just need to convince yourself." – @unclebobmartin
 "Agile process in the absence of agility is like wings on a penguin, you can flap but not fly." -Venkat Subramaniam via Twitter
 "Wenn Du Großes erreichen willst dann musst du aufhören um Erlaubnis zu fragen!" -Thomas Mangold
 "Oft sagt ein Feedback mehr über den, der es gibt, als über den, der es bekommt." -Peter Becker
@@ -131,7 +129,6 @@
 "Before software can be reusable it first has to be usable." - Ralph Johnson
 "Walking on water and developing software from a specification are easy if both are frozen." - Edward V. Berard
 "Agile software development works best when you have two story sizes. Small and too large." -@chzy
-"There is little point in paying attention to prioritization when there is no predictability in delivery" -@djaa_dja
 " If Us and Them meet and collaborate every day, Us and Them gradually turns into just Us." – Henrik Kniberg
 "There are two things people are sure to hate; Change, and the way things are." - @billwil
 "Programming is the art of knowing when to use google, when to ask for help, and when to go for a walk around the block." -dennis collective (@dnscollective)
@@ -164,12 +161,11 @@
 "If your best experiences in life are all vacations, then maybe you shouldn't return to work tomorrow." -@jurgenappelo
 "Incentives ensure that people stop doing things just for the joy of the work." -@jurgenappelo
 "You won't have a first mover advantage for long if somebody else has the fast learner advantage." -@jurgenappelo
-"Stories aren't a way to describe better requirements, but a way to organize and have better conversations." -@jeffpatton
+"Userstories aren't a way to describe better requirements, but a way to organize and have better conversations." -Jeff Patton
 "Remember: at the end of the day, your job isn't to get the requirements right - your job is to change the world." -@jeffpatton
 "Stories get their names from how they should be used, not what should be written." -@jeffpatton
 "Example is not the main thing in influencing others, it is the only thing." -Albert Schweitzer
 "We don’t see things as they are, we see them as we are." - Anais Nin
-"If the programmers like each other, they play a game called "pair programming". And if not, then the game is called "peer review"." -@ashalynd
 "I may not have gone where I intended to go, but I think I have ended up where I needed to be." - Douglas Adams
 "The quest for certainty blocks the search for meaning." ―Erich Fromm
 "I'm an unbranded agilist. I'll take a good idea wherever I can find it."-@mikewcohn
@@ -227,9 +223,19 @@
 "When we are no longer able to change a situation, we are challenged to change ourselves." - Viktor Frankl
 "If you want to know your past, look into your present conditions. If you want to know your future, look into your present actions." - Chinese Proverb
 "The weak can never forgive. Forgiveness is the attribute of the strong." - Mahatma Gandhi
-"Wir werden nicht durch Wahrheiten regiert sondern durch Mehrheiten." -Norbert Röttgen Podcast Lage der Nation
+"Wir werden nicht durch Wahrheiten regiert sondern durch Mehrheiten." -Norbert Röttgen im Podcast "Lage der Nation"
 „Wer glücklich ist, fühlt – wer unglücklich ist, denkt.“ - Joachim Fernau
 „Das Problem sind nicht die neuen Ideen. Das Problem ist, wie wir uns von den alten Ideen lösen können. John Maynard Keynes
 Utopia taucht am Horizont auf. Ich gehe zwei Schritte darauf zu, und es entfernt sich zwei Schritte. Ich gehe weitere zehn Schritte darauf zu, und der Horizont zieht sich zehn Schritte zurück. So weit ich auch gehe, ich werde ihn nie erreichen. Welchen Sinn hat dann die Utopie?
 Ganz einfach: dafür zu sorgen, dass wir weitergehen. - Eduardo Galeano
 "Giving up doesn't always mean your weak; sometimes it means you're strong enough to let go." - Unknown
+"There cannot be a crisis next week. My schedule is already full." - Henry Kissinger
+"The place in which I'll fit will not exist until I make it." James Baldwin
+“Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.” ― Epicurus
+"To be happy, stop saying yes to the things that make you miserable." - The Minimalists
+"You don’t have strengths & weaknesses. You have character attributes. Each of them is a great strength in some contexts and a terrible weakness in others." - GeePaw Hill
+"Don‘t wish for things to be easier - work on things to get better at them" - Alex Fürstenau
+"You can't justify a bridge by the number of people swimming across a river" -Brent Toderian
+"I'm not a great programmer; I'm just a good programmer with great habits." - Kent Beck
+"Ein Vogel hat niemals Angst davor, dass der Ast unter ihm brechen könnte. Nicht weil er dem Ast vertraut, sondern seinen eigenen Flügeln." - Unbekannt
+"Smart people don’t think others are stupid" - Derek Sivers https://sive.rs/ss
