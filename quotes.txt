@@ -239,3 +239,4 @@ Ganz einfach: dafür zu sorgen, dass wir weitergehen. - Eduardo Galeano
 "I'm not a great programmer; I'm just a good programmer with great habits." - Kent Beck
 "Ein Vogel hat niemals Angst davor, dass der Ast unter ihm brechen könnte. Nicht weil er dem Ast vertraut, sondern seinen eigenen Flügeln." - Unbekannt
 "Smart people don’t think others are stupid" - Derek Sivers https://sive.rs/ss
+"You know that you are in the present moment and you know that you know that you are in the present moment." - Dan Harris https://overcast.fm/+Nvi0GS-QM/56:17
